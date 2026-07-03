@@ -1,0 +1,6 @@
+{
+  "name": "Sapforce Showcase",
+  "description": "An interactive, high-fidelity design showcase inspired by Sapforce with premium components, smooth transitions, real-time value calculator, and feedback form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
